@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rikutokd . I'm from Japan 🇯🇵
 - 👀 I’m interested in PHP/Swift
-- 🏢 I have experience in working as a back-end engineer. Almost 2years.
+- 🏢 I have experience in working as a back-end engineer. 2years.
 - 💻 I have work experience in PHP/Laravel/Oracle/MySQL/HTML/CSS/JavaScript/Git ..
 - 📩 If you want to contact me you can send rikutokd@gmail.com
 
